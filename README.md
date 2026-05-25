@@ -11,7 +11,7 @@ Python · CLI · 15 módulos · Relatório HTML/JSON/CSV
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/osint-suite
+git clone https://github.com/kalyel473/osint-suite
 cd osint-suite
 pip install -r requirements.txt
 ```
